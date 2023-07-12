@@ -11,7 +11,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url("img/backgnd.jpg");
+    background-image: url("backgnd.jpg");
     background-size: 60%;
     background-repeat: no-repeat;
     background-position: center;
